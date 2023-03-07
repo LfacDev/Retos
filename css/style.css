@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecera 
+{
+    background-color: #5B3E55;
+    text-align: center;
+    padding: 40px;
+    color: #fff;
+}
+
+.main{
+    background-color: #003042;
+
+}
+
+.section{
+    padding: 20px;
+    width: 43%;
+    display: inline-block;
+    margin: 30px;
+    text-align: center;
+}
+
+.section p{
+    padding: 18px;
+    font-size: 15px;
+    
+}
+
+
+.section h2{
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+
+}
+
+.parrafo{
+    background-color: #007E90;
+    width: 100%;
+    border-radius: 20px;
+}
